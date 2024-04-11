@@ -13,11 +13,11 @@ footer_content = [
                          target="_blank",
                          className = 'navlink'),
                   '|',
-                  html.A(['Source code on GitHub'], href = 'https://www.ukri.org/councils/epsrc/',
+                  html.A(['Source code on GitHub'], href = 'https://github.com/LinVince/EnergyTransitionScenarioExplorer.git',
                          target="_blank",
                          className = 'navlink'),
                   '|',
-                  html.A(['Get in touch'], href = 'mailto:leonhard.hofbauer.18@ucl.ac.uk',
+                  html.A(['Get in touch'], href = 'mailto:Yueh-Chin.Lin@city.ac.uk',
                          target="_blank",
                          className = 'navlink'),
                   ]
